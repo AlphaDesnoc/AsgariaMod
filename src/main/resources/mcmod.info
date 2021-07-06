@@ -1,0 +1,16 @@
+[
+{
+  "modid": "asgaria",
+  "name": "Viking",
+  "description": "Viking mod for Asgaria",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DeltaDesnoc"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
